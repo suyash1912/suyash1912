@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I’m passionate about transforming raw data into 
 ## 🛠️ Tech Stack & Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F3631D?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -22,7 +21,6 @@ Welcome to my GitHub profile! I’m passionate about transforming raw data into 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/3c/IIT_Patna_Logo.png" alt="IIT Patna" width="48" height="48" title="IIT Patna"/>
 </p>
 
 ## 🌟 Featured Projects
