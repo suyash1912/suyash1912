@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I’m passionate about transforming raw data into 
 ## 🧑‍💻 About Me
 - 📊 Data Scientist & Analyst: turning numbers into narratives and insights into innovation
 - 🔍 Curious mind—always exploring machine learning, analytics, and visualization
+- 🎓 Pursuing undergraduate studies at IIT Patna
 
 ## 🛠️ Tech Stack & Skills
 
@@ -21,6 +22,7 @@ Welcome to my GitHub profile! I’m passionate about transforming raw data into 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/3c/IIT_Patna_Logo.png" alt="IIT Patna" width="48" height="48" title="IIT Patna"/>
 </p>
 
 ## 🌟 Featured Projects
@@ -36,7 +38,5 @@ Welcome to my GitHub profile! I’m passionate about transforming raw data into 
 - Outside of tech: a fan of puzzles, cricket, and good conversations
 
 ---
-
-![Suyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suyash1912&show_icons=true&hide_title=true)
 
 > “In God we trust, all others must bring data.”
